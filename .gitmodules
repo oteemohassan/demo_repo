@@ -1,0 +1,4 @@
+[submodule "skills"]
+	path = skills
+	url = https://github.com/oteemohassan/demo_skills_repo.git
+	branch = main
